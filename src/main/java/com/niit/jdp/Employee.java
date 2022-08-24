@@ -6,5 +6,10 @@
 package com.niit.jdp;
 
 public class Employee {
-
+    String name;
+    int code;
+    int age;
+    String dateOfBirth;
+    String address;
+    double salary;
 }
