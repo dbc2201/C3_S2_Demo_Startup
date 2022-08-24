@@ -10,5 +10,7 @@ public class EmployeeImpl {
         Employee daniel = new Employee("Daniel", 130, 32, "12/12/1990", "124 Bridgewater Eville", 3000.0);
         double annualSalary = daniel.calculateAnnualSalary();
         System.out.println("annualSalary = $" + annualSalary);
+        double salaryAfterHike = daniel.calculateSalaryAfterHike(20.0);
+        System.out.println("salaryAfterHike = $" + salaryAfterHike);
     }
 }

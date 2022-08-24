@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcc5cbf3-cfce-4085-a881-6c17e0d1202e" name="Changes" comment="created the calculateAnnualSalary() method in the Employee class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bcc5cbf3-cfce-4085-a881-6c17e0d1202e" name="Changes" comment="created the calculateSalaryAfterHike() method in the Employee class">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/EmployeeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/EmployeeImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661333833735</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="calculated the annual salary for daniel in the main() method">
+      <created>1661333944106</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661333944106</updated>
+    </task>
+    <task id="LOCAL-00012" summary="created the calculateSalaryAfterHike() method in the Employee class">
+      <created>1661334221282</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661334221282</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,7 +181,9 @@
     <MESSAGE value="added the main() method" />
     <MESSAGE value="created an object for the Employee type" />
     <MESSAGE value="created the calculateAnnualSalary() method in the Employee class" />
-    <option name="LAST_COMMIT_MESSAGE" value="created the calculateAnnualSalary() method in the Employee class" />
+    <MESSAGE value="calculated the annual salary for daniel in the main() method" />
+    <MESSAGE value="created the calculateSalaryAfterHike() method in the Employee class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created the calculateSalaryAfterHike() method in the Employee class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
