@@ -12,4 +12,7 @@ public class Employee {
     String dateOfBirth;
     String address;
     double salary;
+
+    public Employee() {
+    }
 }
