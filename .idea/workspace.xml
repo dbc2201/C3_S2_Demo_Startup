@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcc5cbf3-cfce-4085-a881-6c17e0d1202e" name="Changes" comment="added the main() method">
+    <list default="true" id="bcc5cbf3-cfce-4085-a881-6c17e0d1202e" name="Changes" comment="created the calculateAnnualSalary() method in the Employee class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/EmployeeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/EmployeeImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +44,26 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="EmployeeImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.jdp.EmployeeImpl" />
+      <module name="C3_S2_Demo_Startup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.jdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmployeeImpl" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -108,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661333488459</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="created an object for the Employee type">
+      <created>1661333631747</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661333631747</updated>
+    </task>
+    <task id="LOCAL-00010" summary="created the calculateAnnualSalary() method in the Employee class">
+      <created>1661333833735</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661333833735</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +166,9 @@
     <MESSAGE value="created a parameterized constructor for the Employee type" />
     <MESSAGE value="created the EmployeeImpl.java class" />
     <MESSAGE value="added the main() method" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the main() method" />
+    <MESSAGE value="created an object for the Employee type" />
+    <MESSAGE value="created the calculateAnnualSalary() method in the Employee class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created the calculateAnnualSalary() method in the Employee class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
