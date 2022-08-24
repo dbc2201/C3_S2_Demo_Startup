@@ -33,4 +33,16 @@ public class Employee {
     public double calculateAnnualSalary() {
         return this.salary * 12.0;
     }
+
+    /**
+     * This method calculate the salary raise of an employee.
+     *
+     * @param hikePercentage the percentage of hike.
+     * @return the salary raise of an employee.
+     */
+    public double calculateSalaryAfterHike(double hikePercentage) {
+        double hike = (20.0 / 100.0) * this.salary;
+        this.salary = this.salary + hike;
+        return this.salary;
+    }
 }
