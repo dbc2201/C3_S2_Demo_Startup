@@ -24,4 +24,13 @@ public class Employee {
         this.address = address;
         this.salary = salary;
     }
+
+    /**
+     * This method calculated the annual salary of an employee.
+     *
+     * @return the annual salary of an employee.
+     */
+    public double calculateAnnualSalary() {
+        return this.salary * 12.0;
+    }
 }
